@@ -1,0 +1,5 @@
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\hayasaka-edu\bin\Debug\hayasaka-edu.exe.config
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\hayasaka-edu\bin\Debug\hayasaka-edu.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\hayasaka-edu\bin\Debug\hayasaka-edu.pdb
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\hayasaka-edu\obj\Debug\hayasaka-edu.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\hayasaka-edu\obj\Debug\hayasaka-edu.pdb

@@ -1,0 +1,7 @@
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\bin\Debug\winform_app.exe.config
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\bin\Debug\winform_app.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\bin\Debug\winform_app.pdb
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\obj\Debug\winform_app.Properties.Resources.resources
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\obj\Debug\winform_app.csproj.GenerateResource.Cache
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\obj\Debug\winform_app.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\winform_app\obj\Debug\winform_app.pdb

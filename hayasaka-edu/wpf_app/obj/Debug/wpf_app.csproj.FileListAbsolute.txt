@@ -1,0 +1,14 @@
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\bin\Debug\wpf_app.exe.config
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\bin\Debug\wpf_app.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\bin\Debug\wpf_app.pdb
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.csprojResolveAssemblyReference.cache
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\MainWindow.g.cs
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\App.g.cs
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app_MarkupCompile.cache
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app_MarkupCompile.lref
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\MainWindow.baml
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.g.resources
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.Properties.Resources.resources
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.csproj.GenerateResource.Cache
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.exe
+C:\Users\JOOSUK\Documents\GitHub\hayasaka\hayasaka-edu\wpf_app\obj\Debug\wpf_app.pdb
