@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,7 +23,17 @@ namespace wpf_app
     {
         public MainWindow()
         {
-            InitializeComponent();
+            //InitializeComponent();
+
+            Encoding enc8 = Encoding.GetEncoding("utf-8");
+            Encoding encj = Encoding.GetEncoding("shift-jis");
+            string msg = "ハロー";
+
+            FileStream fs = new FileStream("test_utf8.txt", FileMode.Create);
+            fs.Write(enc8.GetBytes(msg), 0, enc8.GetByteCount(msg));
+
+            fs = new FileStream("test_shiftjis.txt", FileMode.Create);
+            fs.Write(encj.GetBytes(msg), 0, encj.GetByteCount(msg));
         }
     }
 }
