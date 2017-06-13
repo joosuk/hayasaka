@@ -34,6 +34,8 @@ namespace wpf_app
 
             fs = new FileStream("test_shiftjis.txt", FileMode.Create);
             fs.Write(encj.GetBytes(msg), 0, encj.GetByteCount(msg));
+
+            //TEST
         }
     }
 }
